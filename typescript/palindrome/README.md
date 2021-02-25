@@ -58,13 +58,13 @@ We first need to choose a value to check if it's a palindrome, let's pick
 The code will first split the string into an array of characters, like so...
 
 ```json
-['b','o','a','t']
+["b","o","a","t"]
 ```
 
 Next, the code will reverse the arrary, like so...
 
 ```json
-['t','a','o','b']
+["t","a","o","b"]
 ```
 
 After reversing the array, the code will join the array and turn it into a
@@ -90,8 +90,8 @@ Ensure you have [Deno](https://deno.land/) installed on your machine.
 Expected output:
 
 ```ts
-true
-false
+true;
+false;
 ```
 
 ### Further Learning
