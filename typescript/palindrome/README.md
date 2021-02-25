@@ -89,9 +89,9 @@ Ensure you have [Deno](https://deno.land/) installed on your machine.
 
 Expected output:
 
-```ts
-true;
-false;
+```
+true
+false
 ```
 
 ### Further Learning
