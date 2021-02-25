@@ -107,3 +107,4 @@ Why not try editing the code? Or try changing the string to something else!
 ## Resources
 
 - [YouTube]()
+- [GitHub](https://github.com/thomaschaplin/lets-code/tree/master/typescript/palindrome)
