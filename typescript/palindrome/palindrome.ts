@@ -18,11 +18,12 @@ const isPalindrome = (value: string): boolean => {
   return result;
 };
 
-const isPalindromeSimple = (value: string): boolean =>
-  value === value.split("").reverse().join("");
+const isPalindromeSimple = (value: string): boolean => {
+  return value.split("").reverse().join("") === value;
+};
 
-const result = isPalindrome("racecar");
-const resultUsingSimpleFunction = isPalindromeSimple("boat");
+const answer = isPalindrome("dad");
+const simpleAnswer = isPalindromeSimple("boat");
 
-console.log(result);
-console.log(resultUsingSimpleFunction);
+console.log(answer);
+console.log(simpleAnswer);
