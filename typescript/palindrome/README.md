@@ -106,5 +106,5 @@ Why not try editing the code? Or try changing the string to something else!
 
 ## Resources
 
-- [YouTube]()
+- [YouTube](https://www.youtube.com/watch?v=XFaHrgv_VeQ)
 - [GitHub](https://github.com/thomaschaplin/lets-code/tree/master/typescript/palindrome)
